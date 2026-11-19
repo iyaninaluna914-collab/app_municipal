@@ -44,11 +44,6 @@ Desarrollar una herramienta de análisis territorial que facilite la identificac
 
 [Ingresar al Observatorio Vial Municipal 2.0](PEGAR_AQUI_EL_ENLACE_DE_LA_APLICACION)
 
-## Documentación
-
-[Consultar el informe completo del proyecto en PDF](PEGAR_AQUI_EL_ENLACE_DEL_PDF)
-
-## Ejecución local
 
 Para ejecutar la aplicación en una computadora:
 
