@@ -40,20 +40,6 @@ Desarrollar una herramienta de análisis territorial que facilite la identificac
 - SQLite
 - Plotly
 
-## Acceso a la aplicación
-
-[Ingresar al Observatorio Vial Municipal 2.0](PEGAR_AQUI_EL_ENLACE_DE_LA_APLICACION)
-
-
-Para ejecutar la aplicación en una computadora:
-
-1. Instalar las dependencias:
-
-   `pip install -r requirements.txt`
-
-2. Ejecutar la aplicación:
-
-   `streamlit run app.py`
 
 ---
 
